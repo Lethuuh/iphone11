@@ -1,0 +1,21 @@
+PatientID,Name,Age,Gender,Country,ChronicCondition
+1001,Patient_1,31,Male,South Africa,Diabetes
+1002,Patient_2,56,Female,South Africa,Hypertension
+1003,Patient_3,44,Male,USA,Hypertension
+1004,Patient_4,76,Female,USA,Hypertension
+1005,Patient_5,38,Female,South Africa,Diabetes
+1006,Patient_6,69,Female,USA,Diabetes
+1007,Patient_7,46,Female,USA,Hypertension
+1008,Patient_8,48,Male,USA,Diabetes
+1009,Patient_9,48,Male,India,Hypertension
+1010,Patient_10,60,Male,India,Hypertension
+1011,Patient_11,52,Female,South Africa,Diabetes
+1012,Patient_12,47,Female,India,Hypertension
+1013,Patient_13,33,Female,South Africa,Diabetes
+1014,Patient_14,79,Female,USA,Hypertension
+1015,Patient_15,74,Female,South Africa,None
+1016,Patient_16,63,Female,South Africa,Diabetes
+1017,Patient_17,75,Male,USA,Diabetes
+1018,Patient_18,33,Male,USA,None
+1019,Patient_19,42,Male,India,Hypertension
+1020,Patient_20,43,Male,South Africa,Hypertension
