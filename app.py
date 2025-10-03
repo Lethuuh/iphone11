@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import joblib
+from sklearn.externals import joblib
 import matplotlib.pyplot as plt
 
 # Load data
